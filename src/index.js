@@ -11,7 +11,7 @@ import ErrorBoundry from './ErrorBoundry';
 
 
 //import Quiz from './Quiz/Quiz';
-import App from './Chatbot/App'
+import App from './App'
 import Mapping from './Mapping';
 
 
