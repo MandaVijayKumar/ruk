@@ -1,0 +1,47 @@
+.container {
+    width: 1000px;
+    height: 900px;
+    background-color: aliceblue;
+    border: 2px solid red;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+
+}
+.one {
+    
+   
+    background-color: aliceblue;
+    border: 2px solid red;
+    padding: 20px;
+    align-self: flex-start;
+    flex: 2 2 200px;
+   
+   
+   
+}
+.two {
+    
+    background-color: aliceblue;
+    border: 2px solid red;
+    padding: 20px;
+    align-self: center;
+    
+    
+    
+    
+}
+.three {
+ 
+    background-color: aliceblue;
+    border: 2px solid red;
+    padding: 20px;
+    align-self: stretch;
+   
+    
+   
+    
+}

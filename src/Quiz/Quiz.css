@@ -1,0 +1,21 @@
+.quize {
+    background-color: #020230;
+    height: 100vh;
+    display: flex;
+    color: white;
+
+}
+.main {
+    width: 75%;
+    background: linear-gradient() url('./asserts/sunflower.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.money {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
